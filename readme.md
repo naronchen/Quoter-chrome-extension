@@ -1,4 +1,4 @@
-# Gmail Quoter ![Icon](images/quotes-small.png)
+# Gmail Quoter ![Icon](images/quotes-128.png)
 
 
 Gmail Quoter is a Chrome extension that makes quoting in Gmail easier. It allows users to select a piece of text in a Gmail thread and directly add it as a quote in the reply box, saving time and improving productivity.
