@@ -9,6 +9,7 @@ It does not handle/store personal or sensitive user data :sunglasses:
 
 ## How to Install
 
+under review
 
 ## How to Use
 
@@ -17,3 +18,4 @@ It does not handle/store personal or sensitive user data :sunglasses:
 3. A small icon will appear at the end of your selection.
 4. Click on the icon, and the selected text will be automatically inserted as a quote in your reply box.
 
+Demo on how to use: https://youtu.be/HXXzd3Z3uqE[https://youtu.be/HXXzd3Z3uqE]
