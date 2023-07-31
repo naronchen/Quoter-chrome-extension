@@ -80,9 +80,11 @@ function appendSelected(selectText){
 
   newQuote.innerText = selectText;
   let parentElement = document.querySelector('.aO7');
-  let targetElement = parentElement.querySelector('[aria-label="Message Body"]');
-    if (targetElement) {
-    targetElement.appendChild(newQuote);
+  if (parentElement){
+      let targetElement = parentElement.querySelector('[aria-label="Message Body"]');
+      if (targetElement) {
+      targetElement.appendChild(newQuote);
+    }
   }
 }
 

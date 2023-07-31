@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Quoter",
-    "version": "1.0",
-    "description": "quoting in gmail easier",
+    "name": "Gmail Quoter",
+    "version": "0.0.0.1",
+    "description": "make quoting in gmail easier",
     "action":{
       "default_icon": "images/quotes-small.png"
     },
@@ -10,6 +10,10 @@
       "resources": [ "images/quotes-small.png" ],
       "matches": ["<all_urls>"]
     }],
+    "icons": { "16": "images/quotes-16.png",
+           "48": "images/quotes-48.png",
+          "128": "images/quotes-128.png" 
+    },
     "content_scripts": [
       {
         "js": ["scripts/content.js"],
