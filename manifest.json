@@ -18,7 +18,7 @@
       {
         "js": ["scripts/content.js"],
         "matches": [
-          "https://mail.google.com/*"
+          "https://mail.google.com/mail/u/0/*"
         ]
       }
     ]
