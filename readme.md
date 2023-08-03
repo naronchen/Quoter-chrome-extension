@@ -11,6 +11,7 @@ https://chrome.google.com/webstore/detail/gmail-quoter/khhplbkffmbefaghnjpocdpee
 
 ## How to Use
 <img src='https://i.imgur.com/EQCSsWJ.gif' title='Video Walkthrough' width='700' alt='Video Walkthrough' />
+
 1. Open a Gmail thread.
 2. Select the text you want to quote.
 3. A small icon will appear at the end of your selection.
