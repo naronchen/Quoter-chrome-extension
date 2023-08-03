@@ -10,7 +10,7 @@ It does not handle/store personal or sensitive user data :sunglasses:
 https://chrome.google.com/webstore/detail/gmail-quoter/khhplbkffmbefaghnjpocdpeeehhibhp
 
 ## How to Use
-
+<img src='https://i.imgur.com/EQCSsWJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 1. Open a Gmail thread.
 2. Select the text you want to quote.
 3. A small icon will appear at the end of your selection.
